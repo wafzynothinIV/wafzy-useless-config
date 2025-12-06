@@ -21,6 +21,9 @@ Yet Another Useless Confihguration 🥀
 # Preview of Fastfetch
 - Screenshots From My Arch Host: <img width="1358" height="732" alt="Screenshots From My Arch Host" src="https://github.com/user-attachments/assets/2bcb5202-9959-4774-9593-58dbab217825" />
 note: this screenshots use pywal and nerd fonts
+- Screenshots From My Jendela Host (-1 points): <img width="1366" height="720" alt="Screenshots From My Jendela Host (-1 points)" src="https://github.com/user-attachments/assets/a4f92834-ab03-4987-b4e3-a410f832880a" />
+note: this screenshots using nerd fonts
+
 
 
 # Preview of Hyprlock
