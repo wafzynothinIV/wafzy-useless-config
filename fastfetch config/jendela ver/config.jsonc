@@ -1,0 +1,124 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+          "source": "Windows 11_small",
+          "padding": {
+            "top": 4,
+            "left": 4,
+            "right": 4
+          }
+          },
+  "modules": [
+    {
+      "type": "title",
+      "align": "center",
+      "format": "                   {user-name}@{host-name}"
+    },
+    {
+      "type": "custom",
+      "format": "  ┌──────────────────────────────────────────────────────────────┐"
+    },
+    {
+      "type": "os",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "host",
+      "align": "center",
+      "key": "     󰌢 ",
+      "format": ""
+    },
+    {
+      "type": "display",
+      "align": "center",
+      "key": "     󰍹 ",
+      "format": ""
+    },
+    {
+      "type": "kernel",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "uptime",
+      "align": "center",
+      "key": "     󰥔 ",
+      "format": ""
+    },
+    {
+      "type": "packages",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "terminal",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "shell",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "de",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "wm",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "memory",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "swap",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "disk",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "cpu",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "gpu",
+      "align": "center",
+      "key": "      ",
+      "format": ""
+    },
+    {
+      "type": "custom",
+      "format": "  └─────────────────────────────────────────────────────────────┘"
+    },
+    {
+      "type": "colors",
+      "paddingLeft": 26,
+      "symbol": "circle",
+      "block": {
+        "width": 10
+      }
+    }
+  ]
+}
