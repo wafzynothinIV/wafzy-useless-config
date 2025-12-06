@@ -1,5 +1,6 @@
 # About this *(useless)* repository?
-Yet Another Useless Confihguration 🥀
+Yet Another Useless Confihguration 🥀 (and remember this is kinda weird if you didn't edit after put the new file)
+
 
 # some contains of this repo
 - fastfetch
