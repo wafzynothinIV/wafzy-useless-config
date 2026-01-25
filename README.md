@@ -22,8 +22,9 @@ Yet Another Useless Confihguration 🥀 (and remember this is kinda weird if you
 - Screenshots From My Arch Host: <img width="1366" height="738" alt="Screenshots From My Arch Host" src="https://github.com/user-attachments/assets/6369c2ad-8373-4139-9b79-5b66a1aebb71" />
 
 
-note: this screenshots use pywal and nerd fonts (need patient because i need to reboot..)
-- Screenshots From My Jendela Host (-1 points): <img width="1366" height="720" alt="My Jendela Host" src="https://github.com/user-attachments/assets/9332cc8c-aaa3-4501-8af2-acc5fddc5cc2" />
+note: this screenshots use pywal and nerd fonts (need patient for updated screenshots on this one because i need to reboot..)
+- Screenshots From My Jendela Host (-1 points): <img width="1366" height="720" alt="Screenshots From My Jendela Host" src="https://github.com/user-attachments/assets/a0b71604-abd1-4330-8941-813a1b1fb929" />
+
 
 note: this screenshots using nerd fonts
 
