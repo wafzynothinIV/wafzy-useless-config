@@ -19,9 +19,10 @@ Yet Another Useless Confihguration 🥀 (and remember this is kinda weird if you
 - or Click "<> Code" then Click "Download Zip"
 
 # Preview of Fastfetch
-- Screenshots From My Arch Host: <img width="1366" height="738" alt="My Arch Host" src="https://github.com/user-attachments/assets/752ac1d9-993a-43c7-a1d4-9d3aa0e3bced"/>
+- Screenshots From My Arch Host: <img width="1366" height="738" alt="Screenshots From My Arch Host" src="https://github.com/user-attachments/assets/6369c2ad-8373-4139-9b79-5b66a1aebb71" />
 
-note: this screenshots use pywal and nerd fonts (updated screenshot btw)
+
+note: this screenshots use pywal and nerd fonts (need patient because i need to reboot..)
 - Screenshots From My Jendela Host (-1 points): <img width="1366" height="720" alt="My Jendela Host" src="https://github.com/user-attachments/assets/9332cc8c-aaa3-4501-8af2-acc5fddc5cc2" />
 
 note: this screenshots using nerd fonts
