@@ -6,118 +6,155 @@
   "logo": {
           "source": "Windows 11_small",
           "padding": {
-            "top": 4,
-            "left": 4,
-            "right": 4
+            "top": 9,
+            "left": 5,
+            "right": 10
           }
           },
-  "modules": [
+ "modules": [
     {
       "type": "title",
-      "align": "center",
-      "format": "                   {user-name}@{host-name}"
+      "key": "  OS Information |",
+      "format": "{host-name-colored}"
     },
     {
       "type": "custom",
-      "format": "  ┌──────────────────────────────────────────────────────────────┐"
+      "format": "╭──────────────────────────────────────╮"
     },
     {
       "type": "os",
       "align": "center",
-      "key": "      ",
-      "format": ""
-    },
-    {
-      "type": "host",
-      "align": "center",
-      "key": "     󰌢 ",
-      "format": ""
-    },
-    {
-      "type": "display",
-      "align": "center",
-      "key": "     󰍹 ",
-      "format": ""
-    },
+      "key": "   ",
+      "format": "{name} {arch} {version}"
+    }, 
     {
       "type": "kernel",
       "align": "center",
-      "key": "      ",
-      "format": ""
-    },
-    {
-      "type": "uptime",
-      "align": "center",
-      "key": "     󰥔 ",
+      "key": "   ",
       "format": ""
     },
     {
       "type": "packages",
       "align": "center",
-      "key": "      ",
+      "key": "   ",
       "format": ""
+    },
+    {
+    "type": "command",
+    "key": "  󰃫 ",
+    "text": "birth_install=$(stat -c %W /); echo $(date -d @$birth_install '+%d %B %Y')"
+    },
+    {
+      "type": "command",
+      "key": "  󰃭 ",
+      "text": "birth_install=$(stat -c %W /); current=$(date +%s); days_difference=$(( (current - birth_install) / 86400 )); echo $days_difference days"
+    },
+    {
+      "type": "datetime",
+      "key": "  󰃰 "
+    },
+    {
+        "type": "custom",
+        "format": "╰──────────────────────────────────────╯"
+    },
+    "break",
+    {
+      "type": "custom",
+      "key": "  Terminal, Shell, DE / WM"
+    },
+    {
+      "type": "custom",
+      "format": "╭────────────────────────────────────────────╮"
     },
     {
       "type": "terminal",
       "align": "center",
-      "key": "      ",
+      "key": "   ",
       "format": ""
     },
     {
       "type": "shell",
       "align": "center",
-      "key": "      ",
+      "key": "   ",
       "format": ""
     },
     {
       "type": "de",
       "align": "center",
-      "key": "      ",
+      "key": "   ",
       "format": ""
     },
     {
       "type": "wm",
       "align": "center",
-      "key": "      ",
+      "key": "   ",
       "format": ""
     },
     {
-      "type": "memory",
+        "type": "custom",
+        "format": "╰────────────────────────────────────────────╯"
+    },
+    "break",
+    {
+      "type": "title",
+      "key": "   ",
+      "format": "{user-name-colored}"
+    },
+    {
+      "type": "custom",
+      "format": "╭────────────────────────────────────────────────────────────╮"
+    },
+    {
+      "type": "host",
+      "key": "  󰌢 ",
       "align": "center",
-      "key": "      ",
       "format": ""
     },
     {
-      "type": "swap",
-      "align": "center",
-      "key": "      ",
-      "format": ""
+      "type": "display",
+      "key": "  󰍹 "
     },
     {
-      "type": "disk",
-      "align": "center",
-      "key": "      ",
-      "format": ""
+      "type": "uptime",
+      "key": "  󰥔 "
     },
     {
       "type": "cpu",
       "align": "center",
-      "key": "      ",
+      "key": "   ",
       "format": ""
     },
     {
       "type": "gpu",
       "align": "center",
-      "key": "      ",
+      "key": "   ",
       "format": ""
     },
     {
-      "type": "custom",
-      "format": "  └──────────────────────────────────────────────────────────────┘"
+      "type": "memory",
+      "align": "center",
+      "key": "   ",
+      "format": ""
+    },
+    {
+      "type": "swap",
+      "align": "center",
+      "key": "   ",
+      "format": ""
+    },
+    {
+      "type": "disk",
+      "align": "center",
+      "key": "   ",
+      "format": "({mountpoint}) {size-used}/{size-total} ({size-percentage}) - {filesystem}"
+    }, 
+    {
+        "type": "custom",
+        "format": "╰────────────────────────────────────────────────────────────╯"
     },
     {
       "type": "colors",
-      "paddingLeft": 26,
+      "paddingLeft": 24,
       "symbol": "circle",
       "block": {
         "width": 10
