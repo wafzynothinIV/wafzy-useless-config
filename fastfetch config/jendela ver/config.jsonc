@@ -24,8 +24,8 @@
     {
       "type": "os",
       "align": "center",
-      "key": "   ",
-      "format": "{name} {arch} {version}"
+      "key": "   ",
+      "format": ""
     }, 
     {
       "type": "kernel",
