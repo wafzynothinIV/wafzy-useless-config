@@ -23,7 +23,9 @@ Yet Another Useless Confihguration 🥀 (and remember this is kinda weird if you
 
 
 note: this screenshots use pywal and nerd fonts (updated screenshots because entire day i use this btw)
-- Screenshots From My Jendela Host (-1 points): <img width="1366" height="720" alt="Screenshots From My Jendela Host" src="https://github.com/user-attachments/assets/a0b71604-abd1-4330-8941-813a1b1fb929" />
+- Screenshots From My Jendela Host (-1 points):
+<img width="1366" height="720" alt="Screenshots From My Jendela Host" src="https://github.com/user-attachments/assets/9f3e2b10-6d6c-4214-b6c4-73397f935686" />
+
 
 
 note: this screenshots using nerd fonts (need patient for updated screenshots on this one because i need to reboot..)
